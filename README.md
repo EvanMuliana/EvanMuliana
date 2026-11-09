@@ -133,7 +133,7 @@ Feel free to reach out.
 
 <p align="center">
   <a href="https://linkedin.com/in/Evan-Caesar-Muliana">LinkedIn</a> ·
-  <a href="https://instagram.com/wowz.id">Instagram</a> ·
+  <a href="https://instagram.com/evonecm">Instagram</a> ·
   <a href="https://tiktok.com/@WowzID">TikTok</a> ·
   <a href="https://youtube.com/@WowzID">YouTube</a>
 </p>
