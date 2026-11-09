@@ -7,6 +7,14 @@
 <div align="center">
 
   <!-- UNCOMMENT AFTER UPLOADING YOUR GIF TO assets/evan-banner.gif -->
+  
+
+
+
+https://github.com/user-attachments/assets/10affd00-4718-499e-9a1d-9646479c2f29
+
+
+
   <!-- <img src="./assets/evan-banner.gif" width="100%" alt="Evan Caesar Muliana - Robotics & AI"> -->
 
   <h1>EVAN CAESAR MULIANA</h1>
@@ -107,17 +115,17 @@ I believe technology becomes more meaningful when engineering meets creativity a
 
 ---
 
-## 📊 GitHub Analytics
+
+---
+
+## ✍️ Daily Dev Quote
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=EvanMuliana&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=EvanMuliana&theme=tokyonight&hide_border=true" />
-
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanMuliana&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
 
 </div>
+
 
 ---
 
