@@ -1,21 +1,17 @@
-
 <!--
   EVAN CAESAR MULIANA
   Personal GitHub Profile | 2026
 -->
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/EvanMuliana/EvanMuliana/main/assets/evan-banner.gif"
+    alt="Evan Caesar Muliana - Robotics & AI"
+    width="100%"
+  />
+</p>
+
 <div align="center">
-
-  <!-- UNCOMMENT AFTER UPLOADING YOUR GIF TO assets/evan-banner.gif -->
-  
-
-
-
-https://github.com/user-attachments/assets/10affd00-4718-499e-9a1d-9646479c2f29
-
-
-
-  <!-- <img src="./assets/evan-banner.gif" width="100%" alt="Evan Caesar Muliana - Robotics & AI"> -->
 
   <h1>EVAN CAESAR MULIANA</h1>
 
