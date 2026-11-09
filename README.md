@@ -1,21 +1,143 @@
-# 💫 About Me:
-I am a Robotics & AI student passionate about bridging Blockchain with AI. I have experience as a tech content creator and an innovator in various competitions, with a vision to launch a tech-based startup that integrates robotics and AI with social impact.<br>I'm currently working on:<br> * Developing practical AI & Robotics projects that address real-world problems.<br> * Managing and producing content for my tech-focused YouTube channel, Wowz Channel Indonesia.<br>I'm looking to collaborate on:<br> * Tech-based startup projects or initiatives that integrate AI, Robotics, or Blockchain.<br> * International competitions and research collaborations that expand Indonesia's presence in global innovation.<br>I'm looking for help with:<br> * Building a strong professional network by connecting with professors, alumni, and industry leaders.<br>I'm currently learning:<br> * Deepening my knowledge in Robotics & AI as a student at Airlangga University.<br> * Exploring the Blockchain ecosystem.<br>Ask me about:<br> * Robotics, AI, and practical project implementation.<br> * AI-driven content strategies and social media management.<br> * Video production, from scripting and filming to editing and SEO.<br> * Visual storytelling and digital branding.<br>Fun fact:<br>I founded my YouTube channel in 2019 and have grown it to achieve nearly 500K views and collaborated with over 20 brands.
 
+<!--
+  EVAN CAESAR MULIANA
+  Personal GitHub Profile | 2026
+-->
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wowz.id) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Evan-Caesar-Muliana) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@WowzID) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@WowzID) 
+<div align="center">
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EvanMuliana&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=EvanMuliana&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EvanMuliana&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <!-- UNCOMMENT AFTER UPLOADING YOUR GIF TO assets/evan-banner.gif -->
+  <!-- <img src="./assets/evan-banner.gif" width="100%" alt="Evan Caesar Muliana - Robotics & AI"> -->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <h1>EVAN CAESAR MULIANA</h1>
+
+  <h3>Building at the Intersection of Intelligence & Innovation.</h3>
+
+  <p>
+    Robotics & AI Undergraduate · Technology Innovator · Digital Creator
+  </p>
+
+  <p>
+    <a href="https://linkedin.com/in/Evan-Caesar-Muliana">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" />
+    </a>
+    <a href="https://github.com/EvanMuliana">
+      <img src="https://img.shields.io/badge/GitHub-EvanMuliana-181717?style=flat-square&logo=github" />
+    </a>
+    <a href="https://youtube.com/@WowzID">
+      <img src="https://img.shields.io/badge/YouTube-Wowz_ID-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+    </a>
+  </p>
+
+  <p><i>Aplomb · Equanimity · Doughty</i></p>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=EvanMuliana&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+I'm **Evan Caesar Muliana**, an undergraduate student pursuing a degree in **Robotics and Artificial Intelligence at Universitas Airlangga, Indonesia**.
+
+I'm passionate about building technology that connects **Artificial Intelligence, Robotics, and Software Engineering** to solve real-world problems.
+
+My interests span intelligent systems, autonomous technologies, applied AI, and emerging innovations. Beyond engineering, I enjoy exploring the intersection of technology, entrepreneurship, and global collaboration.
+
+### 🔭 Currently Exploring
+- Applied Artificial Intelligence and Machine Learning.
+- Computer Vision and intelligent automation.
+- Robotics and autonomous systems.
+- Software development and cloud technologies.
+- AI-driven solutions with real-world applications.
+
+### 🌍 Global Exposure & Leadership
+- 🇷🇺 **International Festival of Youth 2026** — Indonesian Delegate, Yekaterinburg, Russia.
+- **Google Student Ambassador** — Promoting AI literacy and technology engagement.
+- **SPARK Student Ambassador 2026** — Selected from 8,000+ applicants.
+- **ASEAN Data Science Explorers 2026** — Student participant.
+- **World Bank Group Youth Summit 2026** — Virtual Delegate.
+- **McKinsey.org Forward** — Professional development program.
+
+### 🚀 Beyond Engineering
+
+**Founder & Content Creator — Wowz Channel Indonesia**
+
+Founded in 2019, Wowz is a technology-focused content platform covering gadgets, emerging technologies, and digital innovation.
+
+- 547K+ lifetime YouTube views.
+- 20+ brand collaborations.
+- Experience in technology storytelling, content strategy, and digital branding.
+
+I believe technology becomes more meaningful when engineering meets creativity and execution.
+
+### 🤝 Open to
+- Robotics, AI, and software engineering collaborations.
+- Research projects and innovation competitions.
+- Open-source contributions.
+- International technology communities.
+- Startup and entrepreneurial initiatives.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+</p>
+
+### AI, Robotics & Engineering
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+</p>
+
+### Development & Creative Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=EvanMuliana&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=EvanMuliana&theme=tokyonight&hide_border=true" />
+
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanMuliana&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+Interested in technology, innovation, research, or building something meaningful together?
+
+Feel free to reach out.
+
+<p align="center">
+  <a href="https://linkedin.com/in/Evan-Caesar-Muliana">LinkedIn</a> ·
+  <a href="https://instagram.com/wowz.id">Instagram</a> ·
+  <a href="https://tiktok.com/@WowzID">TikTok</a> ·
+  <a href="https://youtube.com/@WowzID">YouTube</a>
+</p>
+
+<div align="center">
+  <i>"Think deeply. Build boldly. Create impact."</i>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EvanMuliana&style=flat-square&color=0e75b6" alt="Profile Views" />
+</p>
