@@ -5,7 +5,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/EvanMuliana/EvanMuliana/main/assets/evan-banner.gif"
+    src="./assets/evan-banner.gif"
     alt="Evan Caesar Muliana - Robotics & AI"
     width="100%"
   />
